@@ -19,3 +19,12 @@
  </a>
 </p>
 <img src="https://i.pinimg.com/1200x/80/2a/05/802a05703a3c09e172299e7e8d6d32a2.jpg">
+
+<table align="right"><th>
+<details><summary><sup><sub> ( </sub></sup> test <sup><sub> )</sub></sup></summary>
+  <br>{content}
+
+  <br>
+</details>
+</th>p>
+ <br>$\text{\small\it\color{#866bc9}{___}}$
