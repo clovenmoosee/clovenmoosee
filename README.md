@@ -1,9 +1,7 @@
 <p align="center">
-<sup><sub>" </sub></sup>
-🫎 one calf to another says "i'm lucky to have met you 🫎"
- <sup><sub> "</sub></sup>
- </p>
-<p dir=auto>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montenegrin+Gothic+One&size=13&pause=1000&color=866bc9&width=435&lines=one+calf+to+another+says+''i'm+lucky+to+have+met+you.''" alt="Typing SVG" /></a>
+
+
  
  <p dir=auto>
 <p align="center">
