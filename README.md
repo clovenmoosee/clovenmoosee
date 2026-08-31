@@ -9,7 +9,7 @@
 <p align="center">
 <img width="668" height="450" alt="cloov n gf" src="https://github.com/user-attachments/assets/97130a0e-902e-49b1-85e8-1036483e3fec" />
 
-<table align="center"><th> moose
+<table align="center"><th> ˚˖𓍢ִ໋ 𐚁°
  <br>he/him - 16
  <br>🫎 moose obsessed geek since fall 2021 🫎
  <br>autism + adhd + apd
