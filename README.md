@@ -7,14 +7,16 @@
 <p align="center">
 <img width="668" height="450" alt="cloov n gf" src="https://github.com/user-attachments/assets/97130a0e-902e-49b1-85e8-1036483e3fec" />
 
-<table align="center"><th> ˚˖𓍢ִ໋ 𐚁°
- <br>he/him - 16
- <br>🫎 moose obsessed geek since fall 2021 🫎
- <br>autism + adhd + apd
- <br>!! always open to art trades !!
+<table align="center"><th> $\text{\small\it\color{#c8cea0}{────────────────}}$
+ <br>$\text{\small\it\color{#866bc9}{he/him - 16}}$
+ <br>$\text{\small\it\color{#866bc9}{🫎 moose obsessed geek since fall 2021 🫎}}$
+ <br>$\text{\small\it\color{#866bc9}{autism + adhd + apd}}$
+ <br>$\text{\small\it\color{#866bc9}{always open to art trades}}$
+ <br>$\text{\small\it\color{#c8cea0}{▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 0:10}}$
  <sup><sub> </sub></sup>
 </th></table>
   </p> 
 <img src="https://i.pinimg.com/1200x/80/2a/05/802a05703a3c09e172299e7e8d6d32a2.jpg">
 
  $\text{\small\it\color{#c8cea0}{test}}$  
+$\text{\small\it\color{#866bc9}{---}}
