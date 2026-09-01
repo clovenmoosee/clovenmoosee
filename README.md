@@ -43,5 +43,14 @@
 <br>$\text{\small\it\color{#7c2c23}{╳ i DO NOT care about other cervidae species (deer, elk, ect.)}}$
 <br>$\text{\small\it\color{#4ea549}{✓ i ONLY care about moose}}$
 
+<table align="center"><th> $\text{\small\it\color{#866bc9}{socials}}$
+<br>$\text{\small\it\color{#866bc9}{discord- @coolest﹍moosee}}$
+<br>$\text{\small\it\color{#866bc9}{instagram- @coolest﹍moosee}}$
+<br>$\text{\small\it\color{#866bc9}{roblox- @coolest﹍moosee *or* @cl0vennn}}$
+<br>$\text{\small\it\color{#7c2c23}{i cannot type underscores so "﹍" is an underscore}}$
+
+</th></table>
+  </p> 
+  
 <img src="https://i.pinimg.com/736x/3d/9d/f7/3d9df76c80d1a311d3aefb1acd596ebb.jpg">
  </a>
