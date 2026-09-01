@@ -38,7 +38,7 @@
   <br>$\text{\small\it\color{#866bc9}{happy tree friends (only lumpy)}}$
 </details>
 </th></table>
-</th></table>
+
 
 <br>$\text{\small\it\color{#7c2c23}{╳ i DO NOT care about other cervidae species (deer, elk, ect.)}}$
 <br>$\text{\small\it\color{#4ea549}{✓ i ONLY care about moose}}$
