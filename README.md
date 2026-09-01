@@ -22,16 +22,20 @@
 
 
 <table align="right"><th>
-<details><summary><sup><sub> ( </sub></sup> <br>$\text{\small\it\color{#866bc9}{abt me}}$ <sup><sub> )</sub></sup></summary>
+<details><summary> <br>$\text{\small\it\color{#866bc9}{abt me}}$</summary>
   <br>$\text{\small\it\color{#866bc9}{im from the state of georgia}}$
   <br>$\text{\small\it\color{#866bc9}{i have a girlfriend}}$
-  <br>$\text{\small\it\color{#866bc9}{i'm a huge fan of happy tree friends! (mainly only lumpy)}}$
   <br>$\text{\small\it\color{#866bc9}{if you find something moosey, irl or online, i'd love to see 😋}}$
   <br> $\text{\small\it\color{#866bc9}{im nicer to strangers than i am to my friends}}$
  <br>$\text{\small\it\color{#866bc9}{i dont have any boundaries or dni, just dont be a ****** and i won't block you}}$
 </details>
- <details><summary><sup><sub> [ </sub></sup> fandoms <sup><sub> ]</sub></sup></summary>
-  <br>content
+ <details><summary> <br>$\text{\small\it\color{#866bc9}{main fandoms}}$</summary>
+  <br>$\text{\small\it\color{#866bc9}{moose fandom}}$
+  <br>$\text{\small\it\color{#866bc9}{wings of fire}}$
+  <br>$\text{\small\it\color{#866bc9}{my little pony}}$
+  <br>$\text{\small\it\color{#866bc9}{bfdi/tpot + hfjone}}$
+  <br>$\text{\small\it\color{#866bc9}{general furry fandom (fandom DNI!!!! DNI!!! DNIII!!!! DNI!!!)}}$
+  <br>$\text{\small\it\color{#866bc9}{happy tree friends (only lumpy)}}$
 </details>
 </th></table>
 </th></table>
