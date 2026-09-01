@@ -14,11 +14,12 @@
  <sup><sub> </sub></sup>
 </th></table>
   </p> 
-   <p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=clovenmoosee&label=​moose+lover+cloven&color=866bc9">
- </a>
-</p>
+    <p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=deerlyyours&color=CE6F1C&style=plastic&label=sprouting antlers "> <img src="https://komarev.com/ghpvc/?username=BluuJayymes&color=55705C&style=plastic&label=yeen "> <p align="center"> 
+
 <img src="https://i.pinimg.com/1200x/80/2a/05/802a05703a3c09e172299e7e8d6d32a2.jpg">
+ </a>
+
 
 <table align="right"><th>
 <details><summary><sup><sub> ( </sub></sup> <br>$\text{\small\it\color{#866bc9}{abt me}}$ <sup><sub> )</sub></sup></summary>
