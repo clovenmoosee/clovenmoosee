@@ -28,7 +28,7 @@
   <br>$\text{\small\it\color{#866bc9}{i'm a huge fan of happy tree friends! (mainly only lumpy)}}$
   <br>$\text{\small\it\color{#866bc9}{if you find something moosey, irl or online, i'd love to see 😋}}$
   <br> $\text{\small\it\color{#866bc9}{im nicer to strangers than i am to my friends}}$
- <br>$\text{\small\it\color{#866bc9}{i dont have any boundaries or dni, just dont be a *re-tart* and i won't block you}}$
+ <br>$\text{\small\it\color{#866bc9}{i dont have any boundaries or dni, just dont be a ****** and i won't block you}}$
 </details>
  <details><summary><sup><sub> [ </sub></sup> fandoms <sup><sub> ]</sub></sup></summary>
   <br>content
