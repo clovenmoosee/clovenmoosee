@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montenegrin+Gothic+One&size=16&pause=1000&color=866bc9&width=435&lines=one+calf+to+another+says+''i'm+lucky+to+have+met+you.''" alt="Typing SVG" /></a>
-
+<img align="center" src="https://komarev.com/ghpvc/?username=clovenmoosee&label=​moose+lover+cloven&color=866bc9">
  <p dir=auto>
 <p align="center">
 <img width="668" height="450" alt="cloov n gf" src="https://github.com/user-attachments/assets/97130a0e-902e-49b1-85e8-1036483e3fec" />
@@ -28,8 +28,16 @@
   <br>$\text{\small\it\color{#866bc9}{i'm a huge fan of happy tree friends! (mainly only lumpy)}}$
   <br>$\text{\small\it\color{#866bc9}{if you find something moosey, irl or online, i'd love to see 😋}}$
   <br> $\text{\small\it\color{#866bc9}{im nicer to strangers than i am to my friends}}$
+ <br>$\text{\small\it\color{#866bc9}{i dont have any boundaries or dni, just dont be a *re-tart* and i won't block you}}$
 </details>
+ <details><summary><sup><sub> [ </sub></sup> fandoms <sup><sub> ]</sub></sup></summary>
+  <br>content
+</details>
+</th></table>
 </th></table>
 
 <br>$\text{\small\it\color{#7c2c23}{╳ i DO NOT care about other cervidae species (deer, elk, ect.)}}$
 <br>$\text{\small\it\color{#4ea549}{✓ i ONLY care about moose}}$
+
+<img src="https://i.pinimg.com/736x/3d/9d/f7/3d9df76c80d1a311d3aefb1acd596ebb.jpg">
+ </a>
