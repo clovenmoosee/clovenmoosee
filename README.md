@@ -21,10 +21,14 @@
 <img src="https://i.pinimg.com/1200x/80/2a/05/802a05703a3c09e172299e7e8d6d32a2.jpg">
 
 <table align="right"><th>
-<details><summary><sup><sub> ( </sub></sup> test <sup><sub> )</sub></sup></summary>
-  <br>{content}
-
-  <br>
+<details><summary><sup><sub> ( </sub></sup> <br>$\text{\small\it\color{#866bc9}{abt me}}$ <sup><sub> )</sub></sup></summary>
+  <br>$\text{\small\it\color{#866bc9}{im from the state of georgia}}$
+  <br>$\text{\small\it\color{#866bc9}{i have a girlfriend}}$
+  <br>$\text{\small\it\color{#866bc9}{i'm a huge fan of happy tree friends! (mainly only lumpy)}}$
+  <br>$\text{\small\it\color{#866bc9}{if you find something moosey, irl or online, i'd love to see 😋}}$
+  <br> $\text{\small\it\color{#866bc9}{im nicer to strangers than i am to my friends}}$
 </details>
-</th>p>
- <br>$\text{\small\it\color{#866bc9}{___}}$
+</th></table>
+
+<br>$\text{\small\it\color{#7c2c23}{╳ i DO NOT care about other cervidae species (deer, elk, ect.)}}$
+<br>$\text{\small\it\color{#4ea549}{✓ i ONLY care about moose}}$
