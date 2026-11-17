@@ -10,3 +10,5 @@
 <p align="center">
  <a href="https://ccloven.straw.page/">strawpage</a>  
 
+<p align="center">
+ <a href="https://soyjakwiki.org/Massjak/">view this</a>  
